@@ -1,4 +1,4 @@
 # JAVA Deneme ve Örnekler
 
 >[!WARNING]
-> Java öğrenirken yaptığım basit denemeler.
+> Java öğrenirken yaptığım basit denemeleri ve ödevler.
