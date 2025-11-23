@@ -5,7 +5,7 @@ public class Booblesort_Ve_Metot {
 		
 		/* METOT = Programın esas yürütülen kısmından her an çağırılabilecek ve bağımsız olarak yürütülebilecek kod parçasına metod denir. */
 		
-		yaz("Bugün kadınlarımızı okulumuzda ağırladık");
+		yaz("Bugün misafirlerimizi okulumuzda ağırladık");
 		
 		Emrah_Cap("BOy =2m , bilgisayar 1 ");
 		
